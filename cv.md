@@ -21,17 +21,6 @@ as a strong team player.
 
 ## Professional Experience
 
-### Software Engineer, Department of Computer Science, Linköping University, September 2009 - June 2010
-
-- Implemented some features & created automated tests for the OpenModelica compiler
-- Assisted with miscellaneous projects such as launching and maintaining websites
-
-### Software Developer, Ida Infront AB, January 2011 - August 2013
-
-- Main technologies used: Java, SQL databases
-- Worked in client-facing teams, developing electronic archives and case management systems
-- Additionally, designed some user-facing web forms and data analysis tools
-
 ### Software Developer, Sociomantic Labs GmbH, later dunnhumby Germany GmbH, September 2013 - November 2015
 
 ### Team Lead, Sociomantic Labs GmbH, later dunnhumby Germany GmbH, November 2015 - Present
@@ -40,6 +29,17 @@ as a strong team player.
 - Started off as a backend software developer, and later took over as leader of one of the backend software teams
 - Designed, implemented, and maintained real-time performance sensitive network applications
 - Heavy focus on ensuring robustness and performance of microservice-based software systems, and single-threaded concurrency models
+
+### Software Developer, Ida Infront AB, January 2011 - August 2013
+
+- Main technologies used: Java, SQL databases
+- Worked in client-facing teams, developing electronic archives and case management systems
+- Additionally, designed some user-facing web forms and data analysis tools
+
+### Software Engineer, Department of Computer Science, Linköping University, September 2009 - June 2010
+
+- Implemented some features & created automated tests for the OpenModelica compiler
+- Assisted with miscellaneous projects such as launching and maintaining websites
 
 ----
 
